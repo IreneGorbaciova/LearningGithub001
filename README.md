@@ -2,7 +2,6 @@
 
 This is a description for ReadMe file
 
-
 DenissMacStudio:Learning Github Irina$ pwd
 /Users/Irina/Desktop/Learning Github
 DenissMacStudio:Learning Github Irina$ cd LearningGithub001/
